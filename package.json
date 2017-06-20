@@ -1,0 +1,21 @@
+{
+  "name": "dff-cordova-plugin-honeywell",
+  "version": "0.0.1",
+  "description": "Honeywell Plugin",
+  "cordova": {
+    "id": "dff-cordova-plugin-honeywell",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChristopherMeyering/dff-cordova-plugin-honeywell.git"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-honeywell"
+  ],
+  "author": "Anthony Nahas",
+  "license": "Apache-2.0"
+}
